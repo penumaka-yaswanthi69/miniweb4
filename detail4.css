@@ -1,0 +1,54 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-vector/black-gold-marble-texture_125540-835.jpg?w=1060&t=st=1668942825~exp=1668943425~hmac=367b6863678567c9b4a1b9ce7d0691217f77b41fa3906c071959b81d7f17fe42");
+    background-size: cover;
+    height: 170vh;
+}
+.headfirst{
+    color: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight:600;
+    padding:25px ;
+}
+.bgcardcarousel{
+    background-color:aquamarine;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 425px;
+    height: 700px;
+    width: 1100px;
+}
+.h4{
+    font-weight: bold;
+}
+
+.first{
+    font-size: 20px;
+    font-weight: 700;
+}
+.second{
+    font-size: 20px;
+  }
+.third{
+    font-size: 20px;
+    font-weight: 600;
+}
+.cardon{
+    padding: 20px;
+    
+
+}
+.headsecond{
+    color:mediumvioletred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight:bolder;
+}
+.paraline{
+    color:crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.cost{
+    font-size: 25px;
+}
